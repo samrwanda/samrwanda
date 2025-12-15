@@ -46,7 +46,7 @@ const developer = {
     
     lifePhilosophy: "Code is poetry written in logic 💭"
 };
-```
+
 
 <br/>
 
