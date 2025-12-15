@@ -21,32 +21,6 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> About Me
 
-```javascript
-const developer = {
-    name: "Sam Rwanda",
-    role: "Full Stack Developer & DevOps Engineer",
-    location: "Rwanda 🇷🇼",
-    
-    currentFocus: [
-        "Building scalable microservices",
-        "Cloud-native architecture",
-        "Infrastructure automation"
-    ],
-    
-    techStack: {
-        frontend: ["React", "TypeScript", "Modern JavaScript"],
-        backend: ["Node.js", "Express", "PostgreSQL"],
-        languages: ["TypeScript", "JavaScript", "C++", "Java"],
-        devops: ["Docker", "Terraform", "Ansible", "Git", "CI/CD"],
-        databases: ["PostgreSQL"],
-        tools: ["VS Code", "Git", "Postman", "Docker Desktop"]
-    },
-    
-    philosophy: "Clean code, automation, and continuous learning",
-    
-    lifePhilosophy: "Code is poetry written in logic 💭"
-};
-```
 
 <br/>
 
@@ -142,20 +116,7 @@ const developer = {
 <summary><b>🔭 What I'm Working On</b></summary>
 <br/>
 
-```yaml
-current_projects:
-  - name: "E-Commerce Microservices Platform"
-    tech: ["React", "TypeScript", "Node.js", "PostgreSQL", "Docker"]
-    description: "Building a scalable microservices architecture"
-    
-  - name: "Infrastructure Automation Suite"
-    tech: ["Terraform", "Ansible", "Docker", "AWS"]
-    description: "Automating cloud infrastructure deployment"
-    
-  - name: "Real-time Analytics Dashboard"
-    tech: ["React", "TypeScript", "WebSocket", "PostgreSQL"]
-    description: "Live data visualization platform"
-```
+
 
 </details>
 
@@ -267,15 +228,7 @@ I'm always interested in collaborating on innovative projects, discussing techno
 
 ### ⚡ Fun Facts About Me
 
-```javascript
-const samRwanda = {
-    hobbies: ["Coding", "Open Source", "Tech Innovation"],
-    fuel: "Coffee + Code = Productivity",
-    motto: "Write code that speaks for itself",
-    location: "Building from Rwanda 🇷🇼",
-    belief: "The best way to predict the future is to build it"
-};
-```
+
 
 <br/>
 
