@@ -100,52 +100,7 @@
 
 <br/>
 
-## 💼 Professional Journey
 
-<details open>
-<summary><b>🔭 What I'm Working On</b></summary>
-<br/>
-
-**E-Commerce Microservices Platform**
-- Tech: React, TypeScript, Node.js, PostgreSQL, Docker
-- Description: Building a scalable microservices architecture
-
-**Infrastructure Automation Suite**
-- Tech: Terraform, Ansible, Docker, AWS
-- Description: Automating cloud infrastructure deployment
-
-**Real-time Analytics Dashboard**
-- Tech: React, TypeScript, WebSocket, PostgreSQL
-- Description: Live data visualization platform
-
-</details>
-
-<details>
-<summary><b>🌱 Currently Learning</b></summary>
-<br/>
-
-- 🚀 Advanced Kubernetes & Service Mesh
-- ☁️ Cloud-Native Architecture Patterns
-- 🔐 Zero-Trust Security Implementation
-- 📊 Advanced PostgreSQL Performance Tuning
-- 🤖 AI/ML Integration in Full Stack Apps
-
-</details>
-
-<details>
-<summary><b>🎯 2025 Goals</b></summary>
-<br/>
-
-- [ ] Contribute to 10+ open source projects
-- [ ] Write 24 technical blog posts
-- [ ] Master Kubernetes orchestration
-- [ ] Build and deploy 5 production applications
-- [ ] Obtain cloud certifications
-- [ ] Speak at a tech conference
-
-</details>
-
-<br/>
 
 ## 🤝 Open Source Contributions
 
