@@ -22,30 +22,6 @@
 
 
 
-const developer = {
-    name: "Your Name",
-    role: "Full Stack Developer & DevOps Engineer",
-    location: "Your Location 🌍",
-    
-    currentFocus: [
-        "Building scalable microservices",
-        "Cloud-native architecture",
-        "Infrastructure automation"
-    ],
-    
-    techStack: {
-        frontend: ["React", "TypeScript", "Modern JavaScript"],
-        backend: ["Node.js", "Express", "PostgreSQL"],
-        languages: ["TypeScript", "JavaScript", "C++", "Java"],
-        devops: ["Docker", "Terraform", "Ansible", "Git", "CI/CD"],
-        databases: ["PostgreSQL"],
-        tools: ["VS Code", "Git", "Postman", "Docker Desktop"]
-    },
-    
-    philosophy: "Clean code, automation, and continuous learning",
-    
-    lifePhilosophy: "Code is poetry written in logic 💭"
-};
 
 
 <br/>
