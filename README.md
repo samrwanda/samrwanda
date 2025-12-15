@@ -138,13 +138,7 @@
 
 <br/>
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=samrwanda&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/samrwanda)
-
-</div>
 
 <br/>
 
