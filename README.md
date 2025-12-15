@@ -84,7 +84,7 @@
 
 <div align="center">
 
-<a href="https://github.com/samrwanda">
+<a href="[https://github.com/samrwanda](https://github.com/samrwanda/ed-shop)">
   <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=samrwanda&repo=ecommerce-platform&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3ABEF9&icon_color=3ABEF9&text_color=FFFFFF&show_owner=true" />
 </a>
 
