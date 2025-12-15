@@ -19,7 +19,7 @@
 
 <br/>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> About Me
+
 
 
 const developer = {
@@ -141,7 +141,7 @@ const developer = {
 <summary><b>🔭 What I'm Working On</b></summary>
 <br/>
 
-```yaml
+
 current_projects:
   - name: "E-Commerce Microservices Platform"
     tech: ["React", "TypeScript", "Node.js", "PostgreSQL", "Docker"]
@@ -154,7 +154,7 @@ current_projects:
   - name: "Real-time Analytics Dashboard"
     tech: ["React", "TypeScript", "WebSocket", "PostgreSQL"]
     description: "Live data visualization platform"
-```
+
 
 </details>
 
@@ -302,7 +302,7 @@ I'm always interested in collaborating on innovative projects, discussing techno
 
 ### ⚡ Fun Facts About Me
 
-```javascript
+
 const funFacts = {
     🎮 hobbies: ["Gaming", "Open Source", "Tech Blogging"],
     ☕ fuel: "Coffee + Code = Productivity",
@@ -310,7 +310,7 @@ const funFacts = {
     🌙 nightOwl: true,
     💭 belief: "The best way to predict the future is to build it"
 };
-```
+
 
 <br/>
 
