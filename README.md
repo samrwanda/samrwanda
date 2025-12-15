@@ -68,17 +68,7 @@
 
 <div align="center">
 
-## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samrwanda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3ABEF9&icon_color=3ABEF9&text_color=FFFFFF&count_private=true&include_all_commits=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samrwanda&theme=tokyonight&hide_border=true&background=0D1117&ring=3ABEF9&fire=3ABEF9&currStreakLabel=3ABEF9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samrwanda&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3ABEF9&text_color=FFFFFF&langs_count=8)
-
-</div>
-
-<br/>
 
 ## 🎯 Featured Projects
 
