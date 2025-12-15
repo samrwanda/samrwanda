@@ -17,28 +17,9 @@
 
 </div>
 
-<br/>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> About Me
 
-**Full Stack Developer & DevOps Engineer** based in Rwanda 🇷🇼
 
-**Current Focus:**
-- Building scalable microservices
-- Cloud-native architecture
-- Infrastructure automation
-
-**Tech Stack:**
-- **Frontend:** React, TypeScript, Modern JavaScript
-- **Backend:** Node.js, Express, PostgreSQL
-- **Languages:** TypeScript, JavaScript, C++, Java
-- **DevOps:** Docker, Terraform, Ansible, Git, CI/CD
-- **Databases:** PostgreSQL
-- **Tools:** VS Code, Git, Postman, Docker Desktop
-
-**Philosophy:** Clean code, automation, and continuous learning
-
-**Life Philosophy:** Code is poetry written in logic 💭
 
 <br/>
 
