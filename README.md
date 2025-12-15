@@ -268,12 +268,12 @@ I'm always interested in collaborating on innovative projects, discussing techno
 ### ⚡ Fun Facts About Me
 
 ```javascript
-const funFacts = {
-    🎮 hobbies: ["Coding", "Open Source", "Tech Innovation"],
-    ☕ fuel: "Coffee + Code = Productivity",
-    🎯 motto: "Write code that speaks for itself",
-    🌍 location: "Building from Rwanda 🇷🇼",
-    💭 belief: "The best way to predict the future is to build it"
+const samRwanda = {
+    hobbies: ["Coding", "Open Source", "Tech Innovation"],
+    fuel: "Coffee + Code = Productivity",
+    motto: "Write code that speaks for itself",
+    location: "Building from Rwanda 🇷🇼",
+    belief: "The best way to predict the future is to build it"
 };
 ```
 
