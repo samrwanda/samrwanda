@@ -19,8 +19,26 @@
 
 <br/>
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> About Me
 
+**Full Stack Developer & DevOps Engineer** based in Rwanda 🇷🇼
 
+**Current Focus:**
+- Building scalable microservices
+- Cloud-native architecture
+- Infrastructure automation
+
+**Tech Stack:**
+- **Frontend:** React, TypeScript, Modern JavaScript
+- **Backend:** Node.js, Express, PostgreSQL
+- **Languages:** TypeScript, JavaScript, C++, Java
+- **DevOps:** Docker, Terraform, Ansible, Git, CI/CD
+- **Databases:** PostgreSQL
+- **Tools:** VS Code, Git, Postman, Docker Desktop
+
+**Philosophy:** Clean code, automation, and continuous learning
+
+**Life Philosophy:** Code is poetry written in logic 💭
 
 <br/>
 
@@ -71,10 +89,11 @@
 
 ## 📊 GitHub Analytics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=samrwanda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3ABEF9&icon_color=3ABEF9&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=samrwanda&theme=tokyonight&hide_border=true&background=0D1117&ring=3ABEF9&fire=3ABEF9&currStreakLabel=3ABEF9" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samrwanda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3ABEF9&icon_color=3ABEF9&text_color=FFFFFF&count_private=true&include_all_commits=true)
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samrwanda&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3ABEF9&text_color=FFFFFF&langs_count=8" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samrwanda&theme=tokyonight&hide_border=true&background=0D1117&ring=3ABEF9&fire=3ABEF9&currStreakLabel=3ABEF9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samrwanda&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3ABEF9&text_color=FFFFFF&langs_count=8)
 
 </div>
 
@@ -116,7 +135,17 @@
 <summary><b>🔭 What I'm Working On</b></summary>
 <br/>
 
+**E-Commerce Microservices Platform**
+- Tech: React, TypeScript, Node.js, PostgreSQL, Docker
+- Description: Building a scalable microservices architecture
 
+**Infrastructure Automation Suite**
+- Tech: Terraform, Ansible, Docker, AWS
+- Description: Automating cloud infrastructure deployment
+
+**Real-time Analytics Dashboard**
+- Tech: React, TypeScript, WebSocket, PostgreSQL
+- Description: Live data visualization platform
 
 </details>
 
@@ -228,7 +257,11 @@ I'm always interested in collaborating on innovative projects, discussing techno
 
 ### ⚡ Fun Facts About Me
 
-
+**My Hobbies:** Coding, Open Source, Tech Innovation  
+**My Fuel:** Coffee + Code = Productivity  
+**My Motto:** Write code that speaks for itself  
+**Building from:** Rwanda 🇷🇼  
+**My Belief:** The best way to predict the future is to build it
 
 <br/>
 
