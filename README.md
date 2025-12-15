@@ -2,27 +2,51 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Full%20Stack%20Developer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3ABEF9&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+%5BSAM+RWANDA%5D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3ABEF9&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+SAM+RWANDA" alt="Typing SVG" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A7F3D0&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+DevOps+Engineer;Building+Scalable+Solutions;React+%E2%80%A2+TypeScript+%E2%80%A2+Node.js;Infrastructure+as+Code+Enthusiast" alt="Typing SVG" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://samrwanda.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sam-rwanda)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samrwandaofficial@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samrwanda)
 
-<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=samrwanda&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 
 </div>
 
 <br/>
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> About Me
 
-
-
-
+```javascript
+const developer = {
+    name: "Sam Rwanda",
+    role: "Full Stack Developer & DevOps Engineer",
+    location: "Rwanda 🇷🇼",
+    
+    currentFocus: [
+        "Building scalable microservices",
+        "Cloud-native architecture",
+        "Infrastructure automation"
+    ],
+    
+    techStack: {
+        frontend: ["React", "TypeScript", "Modern JavaScript"],
+        backend: ["Node.js", "Express", "PostgreSQL"],
+        languages: ["TypeScript", "JavaScript", "C++", "Java"],
+        devops: ["Docker", "Terraform", "Ansible", "Git", "CI/CD"],
+        databases: ["PostgreSQL"],
+        tools: ["VS Code", "Git", "Postman", "Docker Desktop"]
+    },
+    
+    philosophy: "Clean code, automation, and continuous learning",
+    
+    lifePhilosophy: "Code is poetry written in logic 💭"
+};
+```
 
 <br/>
 
@@ -73,11 +97,10 @@
 
 ## 📊 GitHub Analytics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3ABEF9&icon_color=3ABEF9&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117&ring=3ABEF9&fire=3ABEF9&currStreakLabel=3ABEF9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=samrwanda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3ABEF9&icon_color=3ABEF9&text_color=FFFFFF&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=samrwanda&theme=tokyonight&hide_border=true&background=0D1117&ring=3ABEF9&fire=3ABEF9&currStreakLabel=3ABEF9" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3ABEF9&text_color=FFFFFF&langs_count=8" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3ABEF9&text_color=FFFFFF&layout=compact" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samrwanda&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3ABEF9&text_color=FFFFFF&langs_count=8" />
 
 </div>
 
@@ -87,24 +110,26 @@
 
 <div align="center">
 
-<a href="https://github.com/yourusername/project1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3ABEF9&icon_color=3ABEF9&text_color=FFFFFF" />
+<a href="https://github.com/samrwanda">
+  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=samrwanda&repo=ecommerce-platform&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3ABEF9&icon_color=3ABEF9&text_color=FFFFFF&show_owner=true" />
 </a>
 
-<a href="https://github.com/yourusername/project2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3ABEF9&icon_color=3ABEF9&text_color=FFFFFF" />
+<a href="https://github.com/samrwanda">
+  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=samrwanda&repo=devops-automation&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3ABEF9&icon_color=3ABEF9&text_color=FFFFFF&show_owner=true" />
 </a>
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<a href="https://github.com/yourusername/project3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project3&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3ABEF9&icon_color=3ABEF9&text_color=FFFFFF" />
+<a href="https://github.com/samrwanda">
+  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=samrwanda&repo=analytics-dashboard&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3ABEF9&icon_color=3ABEF9&text_color=FFFFFF&show_owner=true" />
 </a>
 
-<a href="https://github.com/yourusername/project4">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project4&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3ABEF9&icon_color=3ABEF9&text_color=FFFFFF" />
+<a href="https://github.com/samrwanda">
+  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=samrwanda&repo=task-manager-api&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3ABEF9&icon_color=3ABEF9&text_color=FFFFFF&show_owner=true" />
 </a>
 
 </div>
@@ -117,7 +142,7 @@
 <summary><b>🔭 What I'm Working On</b></summary>
 <br/>
 
-
+```yaml
 current_projects:
   - name: "E-Commerce Microservices Platform"
     tech: ["React", "TypeScript", "Node.js", "PostgreSQL", "Docker"]
@@ -130,7 +155,7 @@ current_projects:
   - name: "Real-time Analytics Dashboard"
     tech: ["React", "TypeScript", "WebSocket", "PostgreSQL"]
     description: "Live data visualization platform"
-
+```
 
 </details>
 
@@ -147,7 +172,7 @@ current_projects:
 </details>
 
 <details>
-<summary><b>🎯 2024 Goals</b></summary>
+<summary><b>🎯 2025 Goals</b></summary>
 <br/>
 
 - [ ] Contribute to 10+ open source projects
@@ -165,7 +190,7 @@ current_projects:
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3ABEF9&line=3ABEF9&point=FFFFFF)](https://github.com/yourusername)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=samrwanda&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3ABEF9&line=3ABEF9&point=FFFFFF)](https://github.com/samrwanda)
 
 </div>
 
@@ -173,51 +198,25 @@ current_projects:
 
 **Recent Contributions:**
 
-🔹 **[Popular React Library]** - Enhanced TypeScript definitions, improved performance  
-🔹 **[Node.js Framework]** - Fixed critical bugs, added comprehensive tests  
-🔹 **[DevOps Tool]** - Created Ansible playbooks for automated deployments  
-🔹 **[Database Toolkit]** - Optimized queries, added new PostgreSQL features  
+🔹 **React Ecosystem** - Enhanced TypeScript definitions, improved performance  
+🔹 **Node.js Projects** - Fixed critical bugs, added comprehensive tests  
+🔹 **DevOps Tools** - Created Ansible playbooks for automated deployments  
+🔹 **Database Utilities** - Optimized queries, added new PostgreSQL features  
 
 <br/>
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<table>
-<tr>
-<td width="50%">
-
-### 🚀 [Building Scalable APIs with Node.js and TypeScript](https://yourblog.com/post1)
-*Deep dive into creating type-safe, performant backend services*
-
-</td>
-<td width="50%">
-
-### 🏗️ [Infrastructure as Code: Terraform Best Practices](https://yourblog.com/post2)
-*A comprehensive guide to managing cloud resources*
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 💾 [PostgreSQL Performance Optimization Guide](https://yourblog.com/post3)
-*Techniques for handling high-traffic applications*
-
-</td>
-<td width="50%">
-
-### 🐳 [Docker in Production: Lessons Learned](https://yourblog.com/post4)
-*Best practices for containerized deployments*
-
-</td>
-</tr>
-</table>
-<!-- BLOG-POST-LIST:END -->
+## 📝 Latest From My Portfolio
 
 <div align="center">
 
-[![Blog](https://img.shields.io/badge/Read_More_Posts-3ABEF9?style=for-the-badge&logo=hashnode&logoColor=white)](https://yourblog.com)
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| 🚀 **Full Stack App** | Scalable web application with modern architecture | React, Node.js, PostgreSQL |
+| 🏗️ **Infrastructure Suite** | Automated deployment and monitoring system | Terraform, Ansible, Docker |
+| 💾 **Data Platform** | Real-time analytics and visualization | TypeScript, WebSocket, Charts |
+| 🐳 **Microservices** | Containerized distributed system | Docker, Kubernetes, Node.js |
+
+[![Visit Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://samrwanda.netlify.app/)
 
 </div>
 
@@ -227,7 +226,7 @@ current_projects:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/yourusername)
+[![trophy](https://github-profile-trophy.vercel.app/?username=samrwanda&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/samrwanda)
 
 </div>
 
@@ -243,16 +242,6 @@ current_projects:
 
 <br/>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-<br/>
-
 ## 📫 Let's Connect!
 
 <div align="center">
@@ -261,16 +250,16 @@ I'm always interested in collaborating on innovative projects, discussing techno
 
 <br/>
 
-<a href="https://linkedin.com/in/yourprofile">
+<a href="https://linkedin.com/in/sam-rwanda">
   <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:your.email@example.com">
+<a href="mailto:samrwandaofficial@gmail.com">
   <img src="https://img.shields.io/badge/Email-Drop_a_Line-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://twitter.com/yourusername">
-  <img src="https://img.shields.io/badge/Twitter-Follow_Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+<a href="https://github.com/samrwanda">
+  <img src="https://img.shields.io/badge/GitHub-Follow_Me-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://yourportfolio.com">
+<a href="https://samrwanda.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visit_Site-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
@@ -278,15 +267,15 @@ I'm always interested in collaborating on innovative projects, discussing techno
 
 ### ⚡ Fun Facts About Me
 
-
+```javascript
 const funFacts = {
-    🎮 hobbies: ["Gaming", "Open Source", "Tech Blogging"],
+    🎮 hobbies: ["Coding", "Open Source", "Tech Innovation"],
     ☕ fuel: "Coffee + Code = Productivity",
     🎯 motto: "Write code that speaks for itself",
-    🌙 nightOwl: true,
+    🌍 location: "Building from Rwanda 🇷🇼",
     💭 belief: "The best way to predict the future is to build it"
 };
-
+```
 
 <br/>
 
