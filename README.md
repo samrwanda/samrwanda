@@ -173,31 +173,9 @@
 
 <br/>
 
-**Recent Contributions:**
 
-🔹 **React Ecosystem** - Enhanced TypeScript definitions, improved performance  
-🔹 **Node.js Projects** - Fixed critical bugs, added comprehensive tests  
-🔹 **DevOps Tools** - Created Ansible playbooks for automated deployments  
-🔹 **Database Utilities** - Optimized queries, added new PostgreSQL features  
 
-<br/>
 
-## 📝 Latest From My Portfolio
-
-<div align="center">
-
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| 🚀 **Full Stack App** | Scalable web application with modern architecture | React, Node.js, PostgreSQL |
-| 🏗️ **Infrastructure Suite** | Automated deployment and monitoring system | Terraform, Ansible, Docker |
-| 💾 **Data Platform** | Real-time analytics and visualization | TypeScript, WebSocket, Charts |
-| 🐳 **Microservices** | Containerized distributed system | Docker, Kubernetes, Node.js |
-
-[![Visit Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://samrwanda.netlify.app/)
-
-</div>
-
-<br/>
 
 
 
@@ -236,15 +214,7 @@ I'm always interested in collaborating on innovative projects, discussing techno
 
 <br/><br/>
 
-### ⚡ Fun Facts About Me
 
-**My Hobbies:** Coding, Open Source, Tech Innovation  
-**My Fuel:** Coffee + Code = Productivity  
-**My Motto:** Write code that speaks for itself  
-**Building from:** Rwanda 🇷🇼  
-**My Belief:** The best way to predict the future is to build it
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
