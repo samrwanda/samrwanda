@@ -191,28 +191,7 @@
 
 <br/>
 
-## 📫 Let's Connect!
 
-<div align="center">
-
-I'm always interested in collaborating on innovative projects, discussing technology, or just connecting with fellow developers. Feel free to reach out!
-
-<br/>
-
-<a href="https://linkedin.com/in/sam-rwanda">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:samrwandaofficial@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Drop_a_Line-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/samrwanda">
-  <img src="https://img.shields.io/badge/GitHub-Follow_Me-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://samrwanda.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit_Site-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-
-<br/><br/>
 
 
 
