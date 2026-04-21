@@ -8,12 +8,15 @@
 
 <br/>
 
+<p align="center">
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://samrwanda.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sam-rwanda)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samrwandaofficial@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samrwanda)
-
 <img src="https://komarev.com/ghpvc/?username=samrwanda&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+
+</p>
 
 </div>
 
