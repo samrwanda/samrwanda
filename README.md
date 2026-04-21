@@ -74,30 +74,78 @@
 
 <div align="center">
 
-<a href="[https://github.com/samrwanda](https://github.com/samrwanda/ed-shop)">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=samrwanda&repo=ecommerce-platform&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3ABEF9&icon_color=3ABEF9&text_color=FFFFFF&show_owner=true" />
-</a>
-
-<a href="https://github.com/samrwanda">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=samrwanda&repo=devops-automation&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3ABEF9&icon_color=3ABEF9&text_color=FFFFFF&show_owner=true" />
-</a>
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🛍️ Ed Shop</h3>
+      <p align="center">
+        <a href="https://your-ed-shop-url.netlify.app" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+        </a>
+        <a href="https://github.com/samrwanda/ed-shop" target="_blank">
+          <img src="https://img.shields.io/badge/Source_Code-100000?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">Short description of what this project does.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🖥️ MCS System</h3>
+      <p align="center">
+        <a href="https://samrwanda.netlify.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+        </a>
+        <a href="https://github.com/samrwanda/MCS-System" target="_blank">
+          <img src="https://img.shields.io/badge/Source_Code-100000?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">Short description of what this project does.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🚀 Second Port</h3>
+      <p align="center">
+        <a href="https://your-second-port-url.netlify.app" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+        </a>
+        <a href="https://github.com/samrwanda/second-port" target="_blank">
+          <img src="https://img.shields.io/badge/Source_Code-100000?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">Short description of what this project does.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📋 TMP Project</h3>
+      <p align="center">
+        <a href="https://your-tmp-url.netlify.app" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+        </a>
+        <a href="https://github.com/samrwanda/tmp-project" target="_blank">
+          <img src="https://img.shields.io/badge/Source_Code-100000?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">Short description of what this project does.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 </div>
-
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/samrwanda">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=samrwanda&repo=analytics-dashboard&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3ABEF9&icon_color=3ABEF9&text_color=FFFFFF&show_owner=true" />
-</a>
-
-<a href="https://github.com/samrwanda">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=samrwanda&repo=task-manager-api&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3ABEF9&icon_color=3ABEF9&text_color=FFFFFF&show_owner=true" />
-</a>
-
-</div>
-
 <br/>
 
 
