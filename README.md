@@ -28,7 +28,7 @@
 
 <div align="center">
 
-## 🚀 Tech Arsenal
+## 🚀 Technologies I use
 
 <div align="center">
 <table border="0" cellspacing="0" cellpadding="20">
@@ -112,8 +112,7 @@
         <img src="https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=300&h=180&fit=crop" width="220" style="border-radius:10px 10px 0 0;" alt="Ed Group Ltd Ecommerce"/>
       </a>
       <br/>
-      <sub><b>WEB DEVELOPMENT</b></sub>
-      <br/>
+      
       <b>Ed Group Ltd Ecommerce</b>
       <br/><br/>
       <a href="https://edgroupltd.netlify.app" target="_blank">
@@ -125,8 +124,7 @@
         <img src="https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=300&h=180&fit=crop" width="220" style="border-radius:10px 10px 0 0;" alt="Maternal Care Support System"/>
       </a>
       <br/>
-      <sub><b>WEB DEVELOPMENT</b></sub>
-      <br/>
+      
       <b>Maternal Care Support System</b>
       <br/><br/>
       <a href="https://mcssrwanda.netlify.app" target="_blank">
@@ -138,8 +136,7 @@
         <img src="https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=300&h=180&fit=crop" width="220" style="border-radius:10px 10px 0 0;" alt="Daily Motivational Quotes"/>
       </a>
       <br/>
-      <sub><b>WEB DEVELOPMENT</b></sub>
-      <br/>
+      
       <b>The Muse Index</b>
       <br/><br/>
       <a href="https://themuseindex.netlify.app" target="_blank">
@@ -151,8 +148,7 @@
         <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=300&h=180&fit=crop" width="220" style="border-radius:10px 10px 0 0;" alt="Second Port"/>
       </a>
       <br/>
-      <sub><b>WEB DEVELOPMENT</b></sub>
-      <br/>
+      
       <b>Portfolio</b>
       <br/><br/>
       <a href="https://samrwanda.netlify.app" target="_blank">
